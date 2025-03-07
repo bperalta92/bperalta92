@@ -3,11 +3,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer
 -----------------
+Transitioning into Software Engineering with a strong foundation in problem-solving, leadership, and analytical thinking. Passionate about AI, backend development, and building scalable software solutions.  
 
-Transitioning into Software Engineering with a strong foundation in problem-solving, leadership, and analytical thinking. 
-🔹 Current Focus: Developing expertise in Java, Python, and AI to build scalable and efficient software solutions. 
-🔹 Technical Skills: Hands-on experience with data structures, algorithms, backend development, and system design. 
-🔹 Military & Business Background: Former U.S. Army Signal System Specialist managing $5M+ in advanced systems and leading teams of 25+. Experience in B2B business development & CRM optimization, driving efficiency in sales operations. 
+🚀 Current Focus  
+- Developing expertise in **Java, Python, and AI
+- Learning **Data Structures, Algorithms, and System Design
+- Exploring **Backend Development & Cloud Computing
+
+🎖️ Military & Business Background  
+- Former U.S. Army Signal System Specialist managing $5M+ in advanced communication systems  
+- Led teams of 25+ personnel in high-pressure technical environments  
+- Experience in B2B business development & CRM optimization, driving efficiency in sales operations
+
 💡 Passionate about AI, software engineering, and building impactful solutions. Always open to collaborating on projects and contributing to open source!
 
 * 🌍  I'm based in Seattle, WA.
@@ -26,8 +33,6 @@ Transitioning into Software Engineering with a strong foundation in problem-solv
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/bperalta92" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/brianperalta" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
 
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
