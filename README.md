@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Transitioning into Software Engineering with a strong foundation in problem-solving, leadership, and analytical thinking. 🔹 Current Focus: Developing expertise in Java, Python, and AI to build scalable and efficient software solutions. 🔹 Technical Skills: Hands-on experience with data structures, algorithms, backend development, and system design. 🔹 Military & Business Background: Former U.S. Army Signal System Specialist managing $5M+ in advanced systems and leading teams of 25+. Experience in B2B business development & CRM optimization, driving efficiency in sales operations. 💡 Passionate about AI, software engineering, and building impactful solutions. Always open to collaborating on projects and contributing to open source!
+Transitioning into Software Engineering with a strong foundation in problem-solving, leadership, and analytical thinking. 
+🔹 Current Focus: Developing expertise in Java, Python, and AI to build scalable and efficient software solutions. 
+🔹 Technical Skills: Hands-on experience with data structures, algorithms, backend development, and system design. 
+🔹 Military & Business Background: Former U.S. Army Signal System Specialist managing $5M+ in advanced systems and leading teams of 25+. Experience in B2B business development & CRM optimization, driving efficiency in sales operations. 
+💡 Passionate about AI, software engineering, and building impactful solutions. Always open to collaborating on projects and contributing to open source!
 
 * 🌍  I'm based in Seattle, WA.
 * 🧠  I'm learning Exploring AI & backend development
