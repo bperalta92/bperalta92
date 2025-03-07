@@ -6,9 +6,9 @@ Software Engineer
 Transitioning into Software Engineering with a strong foundation in problem-solving, leadership, and analytical thinking. Passionate about AI, backend development, and building scalable software solutions.  
 
 🚀 Current Focus  
-- Developing expertise in **Java, Python, and AI
-- Learning **Data Structures, Algorithms, and System Design
-- Exploring **Backend Development & Cloud Computing
+- Developing expertise in Java, Python, and AI
+- Learning Data Structures, Algorithms, and System Design
+- Exploring Backend Development & Cloud Computing
 
 🎖️ Military & Business Background  
 - Former U.S. Army Signal System Specialist managing $5M+ in advanced communication systems  
